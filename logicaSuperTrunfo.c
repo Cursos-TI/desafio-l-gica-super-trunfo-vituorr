@@ -131,7 +131,7 @@ int main()
     printf("[4] Número de Pontos Turísticos\n");
     printf("[5] Densidade Demográfica\n");
     printf("[6] Todos os Atributos\n");
-    printf("Sua escolha: ")
+    printf("Sua escolha: ");
     scanf("%d", &atributo);
 
     printf("--------------------------------------------------------------\n");
