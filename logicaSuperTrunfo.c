@@ -124,7 +124,7 @@ int main()
 
     printf("--------------------------------------------------------------\n");
 
-    printf("       --- ESCOLHA QUAL ATRIBUTO DESEJA COMPARAR ---\n\n");
+    printf("       --- ESCOLHA QUAl ATRIBUTO DESEJA COMPARAR ---\n\n");
     printf("[1] População\n");
     printf("[2] Área\n");
     printf("[3] PIB\n");
